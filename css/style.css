@@ -30,3 +30,15 @@
   font-weight: 800;
   font-style: normal;
 }
+/* Sofia+Pro-Regular */
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("SofiaProRegular.eot");
+  src: local("Sofia Pro Regular"), local("SofiaProRegular"),
+    url("./font-face/SofiaProRegular.eot?#iefix") format("embedded-opentype"),
+    url("./font-face/SofiaProRegular.woff2") format("woff2"),
+    url("./font-face/SofiaProRegular.woff") format("woff"),
+    url("./font-face/SofiaProRegular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
