@@ -74,3 +74,13 @@
   font-weight: 400;
   font-style: normal;
 }
+/* Popping-SemiBold */
+@font-face {
+    font-family: 'Poppins';
+    src: local('Poppins Semi Bold'), local('Poppins-Semi-Bold'),
+        url('Poppins-SemiBold.woff2') format('woff2'),
+        url('Poppins-SemiBold.woff') format('woff'),
+        url('Poppins-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
