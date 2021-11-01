@@ -20,3 +20,13 @@
   font-weight: 700;
   font-style: normal;
 }
+/* Gilroy-Extrabold */
+@font-face {
+  font-family: "Gilroy";
+  src: local("Gilroy Extrabold"), local("Gilroy-Extrabold"),
+    url("./font-face/Gilroy-Extrabold.woff2") format("woff2"),
+    url("./font-face/Gilroy-Extrabold.woff") format("woff"),
+    url("./font-face/Gilroy-Extrabold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
