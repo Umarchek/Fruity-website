@@ -64,3 +64,13 @@
   font-weight: 600;
   font-style: normal;
 }
+/* Gilroy-Regular */
+@font-face {
+  font-family: "Gilroy";
+  src: local("Gilroy Regular"), local("Gilroy-Regular"),
+    url("./font-face/Gilroy-Regular.woff2") format("woff2"),
+    url("./font-face/Gilroy-Regular.woff") format("woff"),
+    url("./font-face/Gilroy-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
