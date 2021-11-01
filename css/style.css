@@ -1,11 +1,22 @@
 /* Font connecting */
+/* =============================================================================================================== */
 /* Gilroy-medium */
 @font-face {
-    font-family: "Gilroy";
-    src: local("Gilroy Medium"), local("Gilroy-Medium"),
-      url("Gilroy-Medium.woff2") format("woff2"),
-      url("Gilroy-Medium.woff") format("woff"),
-      url("Gilroy-Medium.ttf") format("truetype");
-    font-weight: 500;
-    font-style: normal;
-  }
+  font-family: "Gilroy";
+  src: local("Gilroy Medium"), local("Gilroy-Medium"),
+    url("./font-face/Gilroy-Medium.woff2") format("woff2"),
+    url("./font-face/Gilroy-Medium.woff") format("woff"),
+    url("./font-face/Gilroy-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+/* Gilroy-bold */
+@font-face {
+  font-family: "Gilroy";
+  src: local("Gilroy Bold"), local("Gilroy-Bold"),
+    url("./font-face/Gilroy-Bold.woff2") format("woff2"),
+    url("./font-face/Gilroy-Bold.woff") format("woff"),
+    url("./font-face/Gilroy-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
