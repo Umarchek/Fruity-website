@@ -54,3 +54,13 @@
   font-weight: 500;
   font-style: normal;
 }
+/* Gilroy-semibold */
+@font-face {
+  font-family: "Gilroy";
+  src: local("Gilroy Semibold"), local("Gilroy-Semibold"),
+    url("./font-face/Gilroy-Semibold.woff2") format("woff2"),
+    url("./font-face/Gilroy-Semibold.woff") format("woff"),
+    url("./font-face/Gilroy-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
