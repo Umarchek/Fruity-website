@@ -76,11 +76,21 @@
 }
 /* Popping-SemiBold */
 @font-face {
-    font-family: 'Poppins';
-    src: local('Poppins Semi Bold'), local('Poppins-Semi-Bold'),
-        url('Poppins-SemiBold.woff2') format('woff2'),
-        url('Poppins-SemiBold.woff') format('woff'),
-        url('Poppins-SemiBold.ttf') format('truetype');
-    font-weight: 600;
-    font-style: normal;
-  }
+  font-family: "Poppins";
+  src: local("Poppins Semi Bold"), local("Poppins-Semi-Bold"),
+    url("./font-face/Poppins-SemiBold.woff2") format("woff2"),
+    url("./font-face/Poppins-SemiBold.woff") format("woff"),
+    url("./font-face/Poppins-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+/* Popping-regular */
+@font-face {
+  font-family: "Poppins";
+  src: local("Poppins Regular"), local("Poppins-Regular"),
+    url("./font-face/Poppins-Regular.woff2") format("woff2"),
+    url("./font-face/Poppins-Regular.woff") format("woff"),
+    url("./font-face/Poppins-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
