@@ -42,3 +42,15 @@
   font-weight: normal;
   font-style: normal;
 }
+/* Sofia+Pro-Medium */
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("SofiaProMedium.eot");
+  src: local("Sofia Pro Medium"), local("SofiaProMedium"),
+    url("./font-face/SofiaProMedium.eot?#iefix") format("embedded-opentype"),
+    url("./font-face/SofiaProMedium.woff2") format("woff2"),
+    url("./font-face/SofiaProMedium.woff") format("woff"),
+    url("./font-face/SofiaProMedium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
