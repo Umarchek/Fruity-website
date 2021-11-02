@@ -221,3 +221,17 @@
 }
 
 /* ============================================================================================================= */
+
+section {
+  margin-top: 150px;
+}
+
+section .big__text__section {
+  font-family: Gilroy;
+  color: #233506;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 82px;
+  display: flex;
+  align-items: center;
+}
