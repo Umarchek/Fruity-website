@@ -1,100 +1,92 @@
 /* Font connecting */
+
 /* =============================================================================================================== */
+
 /* Gilroy-medium */
+
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Medium"), local("Gilroy-Medium"),
-    url("./font-face/Gilroy-Medium.woff2") format("woff2"),
-    url("./font-face/Gilroy-Medium.woff") format("woff"),
-    url("./font-face/Gilroy-Medium.ttf") format("truetype");
+  src: local("Gilroy Medium"), local("Gilroy-Medium"), url("./font-face/Gilroy-Medium.woff2") format("woff2"), url("./font-face/Gilroy-Medium.woff") format("woff"), url("./font-face/Gilroy-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
+
 /* Gilroy-bold */
+
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Bold"), local("Gilroy-Bold"),
-    url("./font-face/Gilroy-Bold.woff2") format("woff2"),
-    url("./font-face/Gilroy-Bold.woff") format("woff"),
-    url("./font-face/Gilroy-Bold.ttf") format("truetype");
+  src: local("Gilroy Bold"), local("Gilroy-Bold"), url("./font-face/Gilroy-Bold.woff2") format("woff2"), url("./font-face/Gilroy-Bold.woff") format("woff"), url("./font-face/Gilroy-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
+
 /* Gilroy-Extrabold */
+
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Extrabold"), local("Gilroy-Extrabold"),
-    url("./font-face/Gilroy-Extrabold.woff2") format("woff2"),
-    url("./font-face/Gilroy-Extrabold.woff") format("woff"),
-    url("./font-face/Gilroy-Extrabold.ttf") format("truetype");
+  src: local("Gilroy Extrabold"), local("Gilroy-Extrabold"), url("./font-face/Gilroy-Extrabold.woff2") format("woff2"), url("./font-face/Gilroy-Extrabold.woff") format("woff"), url("./font-face/Gilroy-Extrabold.ttf") format("truetype");
   font-weight: 800;
   font-style: normal;
 }
+
 /* Sofia+Pro-Regular */
+
 @font-face {
   font-family: "Sofia Pro";
   src: url("SofiaProRegular.eot");
-  src: local("Sofia Pro Regular"), local("SofiaProRegular"),
-    url("./font-face/SofiaProRegular.eot?#iefix") format("embedded-opentype"),
-    url("./font-face/SofiaProRegular.woff2") format("woff2"),
-    url("./font-face/SofiaProRegular.woff") format("woff"),
-    url("./font-face/SofiaProRegular.ttf") format("truetype");
+  src: local("Sofia Pro Regular"), local("SofiaProRegular"), url("./font-face/SofiaProRegular.eot?#iefix") format("embedded-opentype"), url("./font-face/SofiaProRegular.woff2") format("woff2"), url("./font-face/SofiaProRegular.woff") format("woff"), url("./font-face/SofiaProRegular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
+
 /* Sofia+Pro-Medium */
+
 @font-face {
   font-family: "Sofia Pro";
   src: url("SofiaProMedium.eot");
-  src: local("Sofia Pro Medium"), local("SofiaProMedium"),
-    url("./font-face/SofiaProMedium.eot?#iefix") format("embedded-opentype"),
-    url("./font-face/SofiaProMedium.woff2") format("woff2"),
-    url("./font-face/SofiaProMedium.woff") format("woff"),
-    url("./font-face/SofiaProMedium.ttf") format("truetype");
+  src: local("Sofia Pro Medium"), local("SofiaProMedium"), url("./font-face/SofiaProMedium.eot?#iefix") format("embedded-opentype"), url("./font-face/SofiaProMedium.woff2") format("woff2"), url("./font-face/SofiaProMedium.woff") format("woff"), url("./font-face/SofiaProMedium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
+
 /* Gilroy-semibold */
+
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Semibold"), local("Gilroy-Semibold"),
-    url("./font-face/Gilroy-Semibold.woff2") format("woff2"),
-    url("./font-face/Gilroy-Semibold.woff") format("woff"),
-    url("./font-face/Gilroy-Semibold.ttf") format("truetype");
+  src: local("Gilroy Semibold"), local("Gilroy-Semibold"), url("./font-face/Gilroy-Semibold.woff2") format("woff2"), url("./font-face/Gilroy-Semibold.woff") format("woff"), url("./font-face/Gilroy-Semibold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
+
 /* Gilroy-Regular */
+
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Regular"), local("Gilroy-Regular"),
-    url("./font-face/Gilroy-Regular.woff2") format("woff2"),
-    url("./font-face/Gilroy-Regular.woff") format("woff"),
-    url("./font-face/Gilroy-Regular.ttf") format("truetype");
+  src: local("Gilroy Regular"), local("Gilroy-Regular"), url("./font-face/Gilroy-Regular.woff2") format("woff2"), url("./font-face/Gilroy-Regular.woff") format("woff"), url("./font-face/Gilroy-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
+
 /* Popping-SemiBold */
+
 @font-face {
   font-family: "Poppins";
-  src: local("Poppins Semi Bold"), local("Poppins-Semi-Bold"),
-    url("./font-face/Poppins-SemiBold.woff2") format("woff2"),
-    url("./font-face/Poppins-SemiBold.woff") format("woff"),
-    url("./font-face/Poppins-SemiBold.ttf") format("truetype");
+  src: local("Poppins Semi Bold"), local("Poppins-Semi-Bold"), url("./font-face/Poppins-SemiBold.woff2") format("woff2"), url("./font-face/Poppins-SemiBold.woff") format("woff"), url("./font-face/Poppins-SemiBold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
+
 /* Popping-regular */
+
 @font-face {
   font-family: "Poppins";
-  src: local("Poppins Regular"), local("Poppins-Regular"),
-    url("./font-face/Poppins-Regular.woff2") format("woff2"),
-    url("./font-face/Poppins-Regular.woff") format("woff"),
-    url("./font-face/Poppins-Regular.ttf") format("truetype");
+  src: local("Poppins Regular"), local("Poppins-Regular"), url("./font-face/Poppins-Regular.woff2") format("woff2"), url("./font-face/Poppins-Regular.woff") format("woff"), url("./font-face/Poppins-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
+
 /* ================================================================================================================= */
+
 * {
   margin: 0;
   padding: 0;
@@ -103,6 +95,7 @@
   box-sizing: border-box;
   background: #FFF9F2;
 }
+
 .logo {
   font-family: Gilroy;
   font-weight: 700;
@@ -112,9 +105,11 @@
   align-items: center;
   color: #233506;
 }
+
 .logo span {
   color: #ff800b;
 }
+
 .nav__text {
   font-family: Gilroy;
   margin-right: 46px;
@@ -123,6 +118,7 @@
   line-height: 21px;
   color: #233506;
 }
+
 .nav__textC {
   margin-right: 187px;
   font-family: Gilroy;
@@ -133,6 +129,7 @@
   align-items: center;
   color: #233506;
 }
+
 .nav__text__Button {
   font-family: Gilroy;
   font-size: 18px;
@@ -148,6 +145,16 @@
   padding-right: 23px;
   padding-bottom: 20px;
 }
-.top{
+
+.top {
   padding-top: 62px;
+}
+.box__icon{
+  margin-left: 13px;
+}
+.uil-shopping-cart, .uil-search {
+  background: #FFFFFF;
+  border-radius: 15px;
+  color: #FF800B;
+  padding: 15px;
 }
