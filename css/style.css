@@ -157,7 +157,8 @@
   margin-left: 13px;
 }
 
-.uil-shopping-cart, .uil-search {
+.uil-shopping-cart,
+.uil-search {
   background: #FFFFFF;
   border-radius: 15px;
   color: #FF800B;
@@ -234,4 +235,50 @@ section .big__text__section {
   line-height: 82px;
   display: flex;
   align-items: center;
+}
+
+.text__card .text_card {
+  font-family: Gilroy;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #02283F;
+}
+
+.text__card .description_card {
+  font-family: Gilroy;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+  color: #02283F;
+}
+
+.g {
+  font-family: Gilroy;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+  color: rgba(2, 40, 63, 0.81);
+}
+
+.big__buy__button {
+  font-family: Gilroy;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #02283F;
+  background: #FDB827;
+  border-radius: 8px;
+  padding: 15px 37px;
+  border: none;
 }
