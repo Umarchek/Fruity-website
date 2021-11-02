@@ -238,6 +238,7 @@ section .big__text__section {
 }
 .all--cards{
   display: flex;
+  margin-top: 87px;
 }
 .text__card {
   margin-top: 37px;
@@ -294,4 +295,8 @@ section .big__text__section {
 .big__shop {
   width: 270px;
   margin-right: 28px;
+}
+.all--cards--second{
+  margin-top: 43px;
+  margin-bottom: 143px;
 }
