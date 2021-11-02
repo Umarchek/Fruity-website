@@ -236,6 +236,12 @@ section .big__text__section {
   display: flex;
   align-items: center;
 }
+.all--cards{
+  display: flex;
+}
+.text__card {
+  margin-top: 37px;
+}
 
 .text__card .text_card {
   font-family: Gilroy;
@@ -268,7 +274,9 @@ section .big__text__section {
   text-align: right;
   color: rgba(2, 40, 63, 0.81);
 }
-
+.big__buy{
+  margin-top: 37px;
+}
 .big__buy__button {
   font-family: Gilroy;
   font-weight: 400;
@@ -281,4 +289,9 @@ section .big__text__section {
   border-radius: 8px;
   padding: 15px 37px;
   border: none;
+}
+
+.big__shop {
+  width: 270px;
+  margin-right: 28px;
 }
