@@ -499,7 +499,7 @@ section .big__text__section {
 }
 
 .site-footer .container .footer .firt__dv h1 {
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 31px;
@@ -558,7 +558,7 @@ section .big__text__section {
 }
 
 .site-footer .container .footer .second__dv h1 {
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -588,10 +588,10 @@ section .big__text__section {
 }
 
 .copyright-text {
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   margin-top: 36px;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 18px;
   line-height: 28px;
   text-align: center;
