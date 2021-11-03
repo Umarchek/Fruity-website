@@ -1,6 +1,98 @@
+.site-footer{
+  margin-top: 155px;
+}
+.site-footer .container .footer .firt__dv h1 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 31px;
+  line-height: 46px;
+  display: flex;
+  align-items: center;
+  color: #243165;
+}
+
+.site-footer .container .footer .firt__dv p {
+  font-family: Sofia Pro;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  color: rgba(55, 84, 101, 0.8);
+  width: 289px;
+}
+
+.site-footer .container .footer .firt__dv .social ul {
+  display: flex;
+  margin-top: 39px;
+
+}
+
+.site-footer .container .footer .firt__dv .social ul li a {
+  margin-right: 22px;
+}
+
+.site-footer .container .footer .firt__dv .social ul li a i {
+  font-size: 26px;
+  color: #545761;
+}
+
+.site-footer .container .footer .firt__dv .social ul li a .uil-facebook-f:hover {
+  color: #3b5998;
+}
+
+.site-footer .container .footer .firt__dv .social ul li a .uil-twitter:hover {
+  color: #00AFD7;
+}
+
+.site-footer .container .footer .firt__dv .social ul li a .uil-linkedin:hover {
+  color: #0e76a8;
+}
+
+.site-footer .container .footer .firt__dv .social ul li a .uil-youtube:hover {
+  color: #e62117;
+}
+
+.site-footer .container .footer .second__dv {
+  margin-left: 156px;
+}
+
+.site-footer .container .footer .second__dv h1 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  color: #243165;
+}
+
+.site-footer .container .footer .second__dv ul {
+  margin-top: 45px;
+}
+
+.site-footer .container .footer .second__dv ul li a {
+  font-family: Sofia Pro;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  color: rgba(55, 84, 101, 0.8);
+}
+.footer{
+  margin-bottom: 106px;
+}
+
 .copyright-text {
   font-family: Poppins;
   font-style: normal;
+  margin-top: 36px;
   font-weight: normal;
   font-size: 18px;
   line-height: 28px;
@@ -9,4 +101,5 @@
   align-items: center;
   justify-content: center;
   color: #375465;
+  margin-bottom: 43px;
 }
