@@ -434,10 +434,10 @@ section .big__text__section {
   margin-bottom: 40px;
 }
 /* =============================== about us ========================*/
-.about__us{
+.about__us {
   margin-top: 114px;
 }
-.about__right{
+.about__right {
   margin-left: 126px;
 }
 .about__us .container .about__left .about__text {
@@ -459,7 +459,6 @@ section .big__text__section {
   line-height: 170%;
   color: #5f6672;
   width: 485px;
-
 }
 .about__us .container .about__left .about__button {
   font-family: Sofia Pro;
@@ -475,4 +474,7 @@ section .big__text__section {
   background: #fdb827;
   border-radius: 30px;
   color: #ffffff;
+}
+.about__us .container .about__right {
+  margin-bottom: 100px;
 }
