@@ -378,3 +378,16 @@ section .big__text__section {
   align-items: unset;
   margin-top: 15px;
 }
+
+.Info__Product {
+  display: flex;
+  align-items: center;
+}
+
+.big_cart {
+  color: #FFFFFF;
+  border-radius: 25px;
+  background: #7E4FF2;
+  padding: 15px;
+  margin-right: 32px;
+}
