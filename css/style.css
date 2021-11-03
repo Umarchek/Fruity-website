@@ -478,3 +478,7 @@ section .big__text__section {
 .about__us .container .about__right {
   margin-bottom: 100px;
 }
+.review-title{
+  display: flex;
+  justify-content: center;
+}
