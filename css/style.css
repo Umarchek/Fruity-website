@@ -157,8 +157,7 @@
   margin-left: 13px;
 }
 
-.uil-shopping-cart,
-.uil-search {
+.uil-shopping-cart, .uil-search {
   background: #FFFFFF;
   border-radius: 15px;
   color: #FF800B;
@@ -236,10 +235,12 @@ section .big__text__section {
   display: flex;
   align-items: center;
 }
-.all--cards{
+
+.all--cards {
   display: flex;
   margin-top: 87px;
 }
+
 .text__card {
   margin-top: 37px;
 }
@@ -275,9 +276,11 @@ section .big__text__section {
   text-align: right;
   color: rgba(2, 40, 63, 0.81);
 }
-.big__buy{
+
+.big__buy {
   margin-top: 37px;
 }
+
 .big__buy__button {
   font-family: Gilroy;
   font-weight: 400;
@@ -296,7 +299,64 @@ section .big__text__section {
   width: 270px;
   margin-right: 28px;
 }
-.all--cards--second{
+
+.all--cards--second {
   margin-top: 43px;
   margin-bottom: 143px;
+}
+
+/* =========================================== how it work =========================================== */
+
+.how_it_work {
+  background: #FFF9F2;
+}
+
+.how_it_work .right__info .big__text__howItWork .big__text__how {
+  font-family: Gilroy;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 82px;
+  display: flex;
+  align-items: center;
+  color: #02283F;
+}
+
+.how_it_work .right__info .big__description .big__text__description__how {
+  font-family: Sofia Pro;
+  font-style: normal;
+  width: 488px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 170%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.01em;
+  color: rgba(42, 53, 71, 0.75);
+}
+
+.how_it_work .right__info .Info__Product .info__text .info__text__hone {
+  font-family: Gilroy;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #02283F;
+}
+
+.how_it_work .right__info .Info__Product .info__text .info__text__description {
+  font-family: Sofia Pro;
+  width: 389px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 170%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.01em;
+  color: rgba(2, 40, 63, 0.67);
+}
+
+.uil-shopping-carts {
+  color: #FFFFFF;
 }
