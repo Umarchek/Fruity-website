@@ -391,3 +391,15 @@ section .big__text__section {
   padding: 15px;
   margin-right: 32px;
 }
+.uil-truck{
+  background: #FFD400;
+}
+.uil-check-circle{
+  background: #FF800B;
+}
+.uil-transaction{
+  background: #7BBB66;
+}
+.Info__Product{
+  margin-bottom: 40px;
+}
