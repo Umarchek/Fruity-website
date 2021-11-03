@@ -3,6 +3,7 @@
   margin-bottom: 200px;
   background: #FFF9F2;
   padding-bottom: 291px;
+  position: relative;
 }
 .review-title {
   margin-bottom: 30px;
@@ -194,7 +195,7 @@
   position: absolute;
 }
 .slider #prev {
-  left: -214px;
+  left: -24px;
 }
 @media (min-width: 768px) and (max-width: 1199px) {
   .slider #prev {
@@ -207,7 +208,7 @@
   }
 }
 .slider #next {
-  right: -214px;
+  right: -215px;
 }
 @media (min-width: 768px) and (max-width: 1199px) {
   .slider #next {
