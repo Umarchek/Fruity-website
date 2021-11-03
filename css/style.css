@@ -6,7 +6,10 @@
 
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Medium"), local("Gilroy-Medium"), url("./font-face/Gilroy-Medium.woff2") format("woff2"), url("./font-face/Gilroy-Medium.woff") format("woff"), url("./font-face/Gilroy-Medium.ttf") format("truetype");
+  src: local("Gilroy Medium"), local("Gilroy-Medium"),
+    url("./font-face/Gilroy-Medium.woff2") format("woff2"),
+    url("./font-face/Gilroy-Medium.woff") format("woff"),
+    url("./font-face/Gilroy-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
@@ -15,7 +18,10 @@
 
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Bold"), local("Gilroy-Bold"), url("./font-face/Gilroy-Bold.woff2") format("woff2"), url("./font-face/Gilroy-Bold.woff") format("woff"), url("./font-face/Gilroy-Bold.ttf") format("truetype");
+  src: local("Gilroy Bold"), local("Gilroy-Bold"),
+    url("./font-face/Gilroy-Bold.woff2") format("woff2"),
+    url("./font-face/Gilroy-Bold.woff") format("woff"),
+    url("./font-face/Gilroy-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
@@ -24,7 +30,10 @@
 
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Extrabold"), local("Gilroy-Extrabold"), url("./font-face/Gilroy-Extrabold.woff2") format("woff2"), url("./font-face/Gilroy-Extrabold.woff") format("woff"), url("./font-face/Gilroy-Extrabold.ttf") format("truetype");
+  src: local("Gilroy Extrabold"), local("Gilroy-Extrabold"),
+    url("./font-face/Gilroy-Extrabold.woff2") format("woff2"),
+    url("./font-face/Gilroy-Extrabold.woff") format("woff"),
+    url("./font-face/Gilroy-Extrabold.ttf") format("truetype");
   font-weight: 800;
   font-style: normal;
 }
@@ -34,7 +43,11 @@
 @font-face {
   font-family: "Sofia Pro";
   src: url("SofiaProRegular.eot");
-  src: local("Sofia Pro Regular"), local("SofiaProRegular"), url("./font-face/SofiaProRegular.eot?#iefix") format("embedded-opentype"), url("./font-face/SofiaProRegular.woff2") format("woff2"), url("./font-face/SofiaProRegular.woff") format("woff"), url("./font-face/SofiaProRegular.ttf") format("truetype");
+  src: local("Sofia Pro Regular"), local("SofiaProRegular"),
+    url("./font-face/SofiaProRegular.eot?#iefix") format("embedded-opentype"),
+    url("./font-face/SofiaProRegular.woff2") format("woff2"),
+    url("./font-face/SofiaProRegular.woff") format("woff"),
+    url("./font-face/SofiaProRegular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
@@ -44,7 +57,11 @@
 @font-face {
   font-family: "Sofia Pro";
   src: url("SofiaProMedium.eot");
-  src: local("Sofia Pro Medium"), local("SofiaProMedium"), url("./font-face/SofiaProMedium.eot?#iefix") format("embedded-opentype"), url("./font-face/SofiaProMedium.woff2") format("woff2"), url("./font-face/SofiaProMedium.woff") format("woff"), url("./font-face/SofiaProMedium.ttf") format("truetype");
+  src: local("Sofia Pro Medium"), local("SofiaProMedium"),
+    url("./font-face/SofiaProMedium.eot?#iefix") format("embedded-opentype"),
+    url("./font-face/SofiaProMedium.woff2") format("woff2"),
+    url("./font-face/SofiaProMedium.woff") format("woff"),
+    url("./font-face/SofiaProMedium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
@@ -53,7 +70,10 @@
 
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Semibold"), local("Gilroy-Semibold"), url("./font-face/Gilroy-Semibold.woff2") format("woff2"), url("./font-face/Gilroy-Semibold.woff") format("woff"), url("./font-face/Gilroy-Semibold.ttf") format("truetype");
+  src: local("Gilroy Semibold"), local("Gilroy-Semibold"),
+    url("./font-face/Gilroy-Semibold.woff2") format("woff2"),
+    url("./font-face/Gilroy-Semibold.woff") format("woff"),
+    url("./font-face/Gilroy-Semibold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
@@ -62,7 +82,10 @@
 
 @font-face {
   font-family: "Gilroy";
-  src: local("Gilroy Regular"), local("Gilroy-Regular"), url("./font-face/Gilroy-Regular.woff2") format("woff2"), url("./font-face/Gilroy-Regular.woff") format("woff"), url("./font-face/Gilroy-Regular.ttf") format("truetype");
+  src: local("Gilroy Regular"), local("Gilroy-Regular"),
+    url("./font-face/Gilroy-Regular.woff2") format("woff2"),
+    url("./font-face/Gilroy-Regular.woff") format("woff"),
+    url("./font-face/Gilroy-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
@@ -71,7 +94,10 @@
 
 @font-face {
   font-family: "Poppins";
-  src: local("Poppins Semi Bold"), local("Poppins-Semi-Bold"), url("./font-face/Poppins-SemiBold.woff2") format("woff2"), url("./font-face/Poppins-SemiBold.woff") format("woff"), url("./font-face/Poppins-SemiBold.ttf") format("truetype");
+  src: local("Poppins Semi Bold"), local("Poppins-Semi-Bold"),
+    url("./font-face/Poppins-SemiBold.woff2") format("woff2"),
+    url("./font-face/Poppins-SemiBold.woff") format("woff"),
+    url("./font-face/Poppins-SemiBold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
@@ -80,7 +106,10 @@
 
 @font-face {
   font-family: "Poppins";
-  src: local("Poppins Regular"), local("Poppins-Regular"), url("./font-face/Poppins-Regular.woff2") format("woff2"), url("./font-face/Poppins-Regular.woff") format("woff"), url("./font-face/Poppins-Regular.ttf") format("truetype");
+  src: local("Poppins Regular"), local("Poppins-Regular"),
+    url("./font-face/Poppins-Regular.woff2") format("woff2"),
+    url("./font-face/Poppins-Regular.woff") format("woff"),
+    url("./font-face/Poppins-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
@@ -96,7 +125,7 @@
 }
 
 .header {
-  background: #FFF9F2;
+  background: #fff9f2;
 }
 
 .logo {
@@ -157,15 +186,16 @@
   margin-left: 13px;
 }
 
-.uil-shopping-cart, .uil-search {
-  background: #FFFFFF;
+.uil-shopping-cart,
+.uil-search {
+  background: #ffffff;
   border-radius: 15px;
-  color: #FF800B;
+  color: #ff800b;
   padding: 15px;
 }
 
 .left {
-  background-color: #FFF9F2;
+  background-color: #fff9f2;
 }
 
 .right {
@@ -183,7 +213,7 @@
 }
 
 .big__text span {
-  color: #FDB827;
+  color: #fdb827;
 }
 
 .big__description {
@@ -197,7 +227,7 @@
 }
 
 .order {
-  background: #FDB827;
+  background: #fdb827;
   border-radius: 33px;
   padding: 29px 41px 28px 40px;
   border: none;
@@ -208,7 +238,7 @@
   line-height: 18px;
   display: flex;
   align-items: center;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .order span {
@@ -252,7 +282,7 @@ section .big__text__section {
   line-height: 23px;
   display: flex;
   align-items: center;
-  color: #02283F;
+  color: #02283f;
 }
 
 .text__card .description_card {
@@ -263,7 +293,7 @@ section .big__text__section {
   display: flex;
   align-items: center;
   text-align: right;
-  color: #02283F;
+  color: #02283f;
 }
 
 .g {
@@ -288,8 +318,8 @@ section .big__text__section {
   line-height: 21px;
   display: flex;
   align-items: center;
-  color: #02283F;
-  background: #FDB827;
+  color: #02283f;
+  background: #fdb827;
   border-radius: 8px;
   padding: 15px 37px;
   border: none;
@@ -308,7 +338,7 @@ section .big__text__section {
 /* =========================================== how it work =========================================== */
 
 .big__how {
-  background: #FFF9F2;
+  background: #fff9f2;
 }
 
 .how_it_work {
@@ -325,7 +355,7 @@ section .big__text__section {
   line-height: 82px;
   display: flex;
   align-items: center;
-  color: #02283F;
+  color: #02283f;
 }
 
 .how_it_work .right__info .big__description .big__text__description__how {
@@ -348,7 +378,7 @@ section .big__text__section {
   line-height: 23px;
   display: flex;
   align-items: center;
-  color: #02283F;
+  color: #02283f;
 }
 
 .how_it_work .right__info .Info__Product .info__text .info__text__description {
@@ -365,7 +395,7 @@ section .big__text__section {
 }
 
 .uil-shopping-carts {
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .left__img__work {
@@ -385,22 +415,64 @@ section .big__text__section {
 }
 
 .big_cart {
-  color: #FFFFFF;
+  color: #ffffff;
   border-radius: 25px;
-  background: #7E4FF2;
+  background: #7e4ff2;
   padding: 15px;
   margin-right: 32px;
 }
-.uil-truck{
-  background: #FFD400;
+.uil-truck {
+  background: #ffd400;
 }
-.uil-check-circle{
-  background: #FF800B;
+.uil-check-circle {
+  background: #ff800b;
 }
-.uil-transaction{
-  background: #7BBB66;
+.uil-transaction {
+  background: #7bbb66;
 }
-.Info__Product{
+.Info__Product {
   margin-bottom: 40px;
 }
 /* =============================== about us ========================*/
+.about__us{
+  margin-top: 114px;
+}
+.about__right{
+  margin-left: 126px;
+}
+.about__us .container .about__left .about__text {
+  font-family: Gilroy;
+  padding-top: 217px;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 82px;
+  color: #02283f;
+  margin-bottom: 60px;
+  width: 298px;
+}
+.about__us .container .about__left .about__description {
+  font-family: Sofia Pro;
+  margin-bottom: 50px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 170%;
+  color: #5f6672;
+  width: 485px;
+
+}
+.about__us .container .about__left .about__button {
+  font-family: Sofia Pro;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 170%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 160px;
+  height: 60px;
+  border: none;
+  background: #fdb827;
+  border-radius: 30px;
+  color: #ffffff;
+}
