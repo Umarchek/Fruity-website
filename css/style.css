@@ -360,3 +360,12 @@ section .big__text__section {
 .uil-shopping-carts {
   color: #FFFFFF;
 }
+.left__img__work{
+  display: flex;
+  align-items: center;
+}
+.right__img__work{
+  display: flex;
+  align-items: unset;
+  margin-top: 15px;
+}
