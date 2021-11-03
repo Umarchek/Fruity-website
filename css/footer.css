@@ -12,12 +12,27 @@
 .site-footer hr.small {
   margin: 20px 0;
 }
-.site-footer h6 {
-  color: #fff;
-  font-size: 16px;
-  text-transform: uppercase;
-  margin-top: 5px;
-  letter-spacing: 2px;
+.site-footer .logo {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 31px;
+  line-height: 46px;
+  display: flex;
+  align-items: center;
+  color: #243165;
+}
+.site-footer p {
+  font-family: Sofia Pro;
+  width: 289px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  color: rgba(55, 84, 101, 0.8);
 }
 .site-footer a {
   color: #737373;
