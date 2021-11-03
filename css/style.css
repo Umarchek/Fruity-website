@@ -311,7 +311,14 @@ section .big__text__section {
   background: #FFF9F2;
 }
 
+.how_it_work {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 57px;
+}
+
 .how_it_work .right__info .big__text__howItWork .big__text__how {
+  margin-top: 67px;
   font-family: Gilroy;
   font-weight: 700;
   font-size: 70px;
@@ -360,11 +367,13 @@ section .big__text__section {
 .uil-shopping-carts {
   color: #FFFFFF;
 }
-.left__img__work{
+
+.left__img__work {
   display: flex;
   align-items: center;
 }
-.right__img__work{
+
+.right__img__work {
   display: flex;
   align-items: unset;
   margin-top: 15px;
